@@ -8,8 +8,8 @@ Installation
 ============
 
 1. Create a directory inside your project called 'plugins/category_template'
-1. Download the repo into that directory, or check it out as a submodule
-2. Add 'category_template' to your `PLUGINS` setting
+2. Download the repo into that directory, or check it out as a submodule
+3. Add 'category_template' to your ``PLUGINS`` setting
 
 Defining templates
 ==================
